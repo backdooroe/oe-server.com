@@ -1,0 +1,9 @@
+My name is Okello Emmanuel
+Learning git from freecodecamp.org tutorial email listing
+git: is a version control system #vcs. It keeps track of changes made to files . this can be any type of file
+Github is code hosting platform that uses git to keep track of the changes made to user files
+Alternatives to github: 
+1. Gitlab
+2. Gitbucket
+Among others
+
