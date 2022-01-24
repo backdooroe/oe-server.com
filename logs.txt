@@ -1,0 +1,35 @@
+* commit a34da9b2af51702714e338b55d2f62fa03514ef6
+| Author: backdooroe <backdooroe@gmail.com>
+| Date:   Mon Jan 24 01:36:48 2022 +0300
+| 
+|     More info added
+| 
+* commit 46aca81354105afafbfc7d786ad78c9156625d72
+| Author: backdooroe <backdooroe@gmail.com>
+| Date:   Mon Jan 24 01:13:21 2022 +0300
+| 
+|     Added server2
+| 
+* commit 6789dd29b1298c48252793169dde918deb75ce90
+| Author: backdooroe <backdooroe@gmail.com>
+| Date:   Mon Jan 24 01:03:18 2022 +0300
+| 
+|     Edited Gitignore
+| 
+* commit 29a46b6ea843198388f7960439a932ab158b5f95
+| Author: backdooroe <backdooroe@gmail.com>
+| Date:   Mon Jan 24 00:58:52 2022 +0300
+| 
+|     Gitigore status: Added /dir
+| 
+* commit adbfe43fcf559ebe040626c089ac319ef1f82181
+| Author: backdooroe <backdooroe@gmail.com>
+| Date:   Mon Jan 24 00:50:09 2022 +0300
+| 
+|     Added Javascript_lessons to gitignore
+| 
+* commit 03be61e09a2ccc58c774af6aba68a5af6b0471d8
+  Author: backdooroe <backdooroe@gmail.com>
+  Date:   Mon Jan 24 00:42:22 2022 +0300
+  
+      First commit made
